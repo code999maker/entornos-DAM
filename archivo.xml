@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <title>Coches</title>
+  <itunes:author>FELIPE GARCÍA LEDRADO</itunes:author>
+	<itunes:summary>COCHAZOS PARA TODOS, POR UN OJO DE LA CARA</itunes:summary>
+  
   <item>
     <name>Toyota Corolla</name>
 		<description>El Toyota Corolla es un compacto, del segmento C, fabricado por Toyota desde 1966. Actualmente se comercializa la duodécima 
