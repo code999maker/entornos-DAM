@@ -2,7 +2,9 @@
 <feed>
   <title>Coches</title>
   <itunes:author>FELIPE GARCÍA LEDRADO</itunes:author>
-	<itunes:summary>COCHAZOS PARA TODOS, POR UN OJO DE LA CARA</itunes:summary>
+  <itunes:summary>COCHAZOS PARA TODOS, POR UN OJO DE LA CARA</itunes:summary>
+  <author> YO </author>
+  <channel>Telecinco</channel>
   
   <item>
     <name>Toyota Corolla</name>
