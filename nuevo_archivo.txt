@@ -1,0 +1,5 @@
+Hola soy Felipe y estoy haciendo un examen
+
+cadena = "hola"
+for i in cadena:
+	print(i)
