@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+  <title>Coches</title>
+  <itunes:author>FELIPE GARCÍA LEDRADO</itunes:author>
+  <itunes:summary>COCHAZOS PARA TODOS, POR UN OJO DE LA CARA</itunes:summary>
+  <author> YO </author>
+  <channel>Telecinco</channel>
+  
+  <item>
+    <name>Toyota Corolla</name>
+		<description>El Toyota Corolla es un compacto, del segmento C, fabricado por Toyota desde 1966. Actualmente se comercializa la duodécima 
+			generación, presentada en 2019.</description>
+  </item>
+  <item>
+    <name>BMW Serie 3</name>
+		<description>El BMW Serie 3 es una berlina media premium del segmento D, 5 plazas y tracción trasera o total fabricada por BMW. Cuenta con
+		motores diésel y gasolina, con potencias comprendidas entre 120 y 320 CV, si bien también existe una versión deportiva denominada BMW M3 con
+			431 CV.</description>
+  </item>
+  <item>
+    <name>Ford Mustang</name>
+		<description>Ford Mustang no tardó mucho tiempo en convertirse en un éxito absoluto. El esperado vehículo fue bautizado como Mustang,
+		evocando a los caballos salvajes que habitan en Norteamérica, pero también al avión de combate de la Segunda Guerra Mundial del mismo 
+			nombre.</description>
+  </item>
+  
+   <item>
+    <name>Dodge Challenger GT 2022</name>
+		<description>a potencia de Challenger destaca este año con un motor Pentastar V6 con 305HP como versión estándar, también con 375HP de 
+			.7L o 470HP.</description>
+  </item>
+  <item>https://archive.org/details/Cochesxml</item>
+  
+</feed>
